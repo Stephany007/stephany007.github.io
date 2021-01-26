@@ -1,11 +1,25 @@
-Bootstrap/HTML5 Responsive Template
+﻿Free Responsive HTML5 Template
 
-Agile Agency Free Bootstrap Web Template is a modern clean Bootstrap template with amazing design fits in all types of requirments like agency, business, consultancy, portfolio, real estate, interior designer, and many more. This template is built using latest Bootstrap 3.2, html5 and css3 which is easy and simple to customeise the theme as per requirements. This template designed with height quality standards to meet the latest requirment and it is a responsive template fits in all devices with multi browser support. Download for free.  
+Brand html5 app landing page responsive web template is a well designed multipurpose landing page web template built with valid HTML5 & CSS3. This template is based on latest Bootstrap framework 3 fully responsive web compatible with multi browser and devices. This template can be used for multi-purpose needs like mobile app, landing page, software product display, business, consultancy, agency, personal portfolio, profile, mobile website and start-up company.
+
+Key features
+-------------
+Twitter Bootstrap 3+
+Clean & Developer-friendly HTML5 and CSS3 code
+100% Responsive Layout Design 
+Multipurpose theme
+Google Fonts Support
+Single Page
+Font Awesome 
+Smooth Scrolling 
+Fully Customizable
+Contact Form
+
 
 Credits :
 -------
 => Design and developed: "WebThemez"  http://webthemez.com
-=> Photos used in template: **Unsplash** - http://unsplash.com
+=> Photos used in template: **Unsplash** - http://unsplash.com, http://risewall.com/home-business-team-wallpapers.html
 => For more free web themes: http://webthemez.com
 => Framework : http://getbootstrap.com
 
@@ -21,7 +35,7 @@ License :
 
 - You are allowed to use all files for both personal and commercial projects.
 
-- If you use/modify the resources in your projects,we�d appreciate a linkback to this site.
+- If you use/modify the resources in your projects,we’d appreciate a linkback to this site.
 
 - You do not have rights to redistribute,resell or offer files from this site to any third party
 
